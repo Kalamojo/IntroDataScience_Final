@@ -14,3 +14,5 @@ Our main motivation for this project was that each of us had a close connection 
 3. What does the battle between PlayStation and Xbox look like? Who wins based on popularity and mean meta score and user score?
 4. Can we build a recommendation system from key words in the game description?
 5. Can we predict the genre of a particular game based on key words in the game description
+
+You can also try our Recommender System application [Release](https://github.com/Kalamojo/IntroDataScience_Final/releases/tag/v1.0.0-gamma).
