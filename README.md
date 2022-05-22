@@ -1,6 +1,6 @@
 # IntroDataScience_Final
 
-![Xbox vs Playstation gif](xbox_vs_ps.gif|width=600px)
+[[xbox_vs_ps.gif|width=600px]]
 
 ## Abstract
 Games are a huge part of life for most people, so throughout this project, our group wanted to find the relation between games from the data we acquired. SOme of the key findings throughout the data analysis of this video game project include finding th ebetter platform between PlayStation and Xbox, finding correlation between critic scores and user scores, predicting similar genres, and predicting what genre a game belongs to based on their description.
